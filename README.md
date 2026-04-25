@@ -1,58 +1,74 @@
-### 🚀 Arun Chandradas PK | Aspiring Software Developer
+## 🚀 Arun Chandradas PK
 
-Hi there! 👋
-I’m Arun Chandradas PK, a passionate beginner in the world of software development, currently building my skills and exploring opportunities to grow in the tech industry.
-
----
-
-### 💻 What I’m Doing Now
-
-* 🌐 Learning **Web Development** (HTML, CSS, JavaScript)
-* 🧠 Exploring programming fundamentals with **Python**
-* 📈 Gaining insights into **Digital Marketing**
-* 🔧 Building small projects to improve real-world skills
+### 💻 Future Software Developer | Web Dev Learner | Tech Enthusiast
 
 ---
 
-### 🛠️ Skills & Tools
+✨ **Turning curiosity into code, one project at a time.**
 
-* Frontend: HTML | CSS | JavaScript
-* Programming: Python (Basic)
-* Other Skills: Digital Marketing Basics
-
----
-
-### 🎯 My Goal
-
-I’m on a journey to become a **professional software developer**, focusing on creating responsive, user-friendly, and impactful web applications.
+Hey 👋
+I’m Arun Chandradas PK, a self-driven learner stepping into the world of software development. After completing my Plus Two, I decided to focus on building real skills in tech — and I’m currently shaping my path as a web developer.
 
 ---
 
-### 🌱 Currently Learning
+## 🔥 What I’m Building Right Now
+
+🚧 Crafting responsive websites using **HTML, CSS & JavaScript**
+⚡ Strengthening logic and fundamentals with **Python**
+📊 Learning **Digital Marketing** to understand real-world user behavior
+🧩 Working on projects that combine creativity + functionality
+
+---
+
+## 🧠 Tech Stack
+
+💡 **Frontend:** HTML • CSS • JavaScript
+⚙️ **Programming:** Python (Basics)
+📈 **Other:** Digital Marketing Fundamentals
+
+---
+
+## 🎯 Vision
+
+I’m not just learning to code —
+I’m building the skills to create **useful, user-focused, and impactful digital experiences.**
+
+---
+
+## 🌱 Growth Mode: ON
+
+🔍 Currently exploring:
 
 * Advanced JavaScript
-* Responsive Design
-* Real-world Project Development
+* UI/UX Basics
+* Real-world project building
+* Problem-solving mindset
 
 ---
 
-### 💡 What Makes Me Different
+## ⚡ Why Me?
 
-I combine **technical skills + digital marketing knowledge**, which helps me understand both **user experience and business needs**.
+I bring a mix of:
+✔️ Technical learning
+✔️ Creative thinking
+✔️ Basic marketing understanding
 
----
-
-### 🤝 Let’s Connect!
-
-I’m open to:
-
-* Internships 💼
-* Entry-level opportunities 🚀
-* Collaboration on projects 🤝
+👉 Which means I don’t just build websites — I think about how they **perform, attract, and engage users.**
 
 ---
 
-### 📌 Motto
+## 🤝 Open To
 
-“Learn. Build. Improve. Repeat.”
+💼 Internships
+🚀 Entry-Level Roles
+🤝 Collaboration Projects
 
+---
+
+## 📌 Personal Code
+
+> “Stay consistent. Build daily. Grow endlessly.”
+
+---
+
+💬 *Let’s connect and grow together in tech!*
