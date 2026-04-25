@@ -1,7 +1,3 @@
-Here’s an **attractive LinkedIn “About / README-style” section** you can copy and paste. I’ve made it modern, clean, and a bit standout 👇
-
----
-
 ### 🚀 Arun Chandradas PK | Aspiring Software Developer
 
 Hi there! 👋
